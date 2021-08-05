@@ -630,6 +630,35 @@ input.input-field {
     text-align: center;
     padding-bottom: 20px;
   }
+  
+  .btn-second {
+    font-size: 100%;
+    margin-bottom: 2%;
+  }
+  .btn-third {
+    font-size: 100%;
+    padding: 30px 50px;
+    border: none;
+    box-shadow: 20px 20px 10px #d3d7e0;
+    margin-bottom: 7%;
+    cursor: pointer;
+  }
+
+  .header-container h1 {
+    font-size: 200%;
+  }
+  .intro-to-main-container h1 {
+    font-size: 200%;
+  }
+  #contact-page h1 {
+    font-size: 30px;
+  }
+
+  #navigation-bar div {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 20px;
+  }
 
   #laptop-phone-img img {
     width: 100%;
